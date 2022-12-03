@@ -14,13 +14,13 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**فست نتورک** پروژه پروژه ایست که تمام تلاش خود را میکند تا دسترسی آزاد را برای تمام ایرانیان ایجاد نماید "
-  introMessage: در اینجا میتوانید وضعیت سرور های شبکه را بررسی کنید همچنین در صورت داشتن هرگونه مشکل یا تمایل به خرید سرویس های مارا داشته باشید میتوانید با آیدی در تلگرام [ما](https://t.me) در تماس باشید
+  introTitle: "**فست نتورک** پروژه ایست که تمام تلاش خود را میکند تا با بالاترین سرعت ممکن دسترسی آزاد را برای تمام ایرانیان ایجاد نماید "
+  introMessage: در اینجا میتوانید وضعیت سرور های شبکه را بررسی کنید همچنین در صورت داشتن هرگونه مشکل و یا قصد خرید سرویس فست نتورک را داشته باشید میتوانید با آیدی ما در [تلگرام](https://t.me/itsme/doodool) در تماس باشید
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: پشتیبانی
+      href: https://t.me/itsme_DooDooL
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
