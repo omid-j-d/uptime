@@ -10,14 +10,14 @@ status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /uptime
+  cname: fastnetworkcdn.xyz
+  #baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name:卐 FASTNETWORKCDN 卐
   introTitle: "**فست نتورک** پروژه ایست که تمام تلاش خود را میکند تا با بالاترین سرعت ممکن دسترسی آزاد را برای تمام ایرانیان ایجاد نماید "
   introMessage: در اینجا میتوانید وضعیت سرور های شبکه را بررسی کنید همچنین در صورت داشتن هرگونه مشکل و یا قصد خرید سرویس فست نتورک را داشته باشید میتوانید با آیدی ما در [تلگرام](https://t.me/itsme/doodool) در تماس باشید
   navbar:
-    - title: وضعیت شبکه
+    - title: status
       href: /
     - title: پشتیبانی
       href: https://t.me/itsme_DooDooL
