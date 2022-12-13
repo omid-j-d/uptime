@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/de1x.fastnetworkcdn.xyz.ico",
     "slug": "alman-1",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
-    "time": 263,
-    "timeDay": 311,
-    "timeWeek": 291,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 259,
+    "timeDay": 202,
+    "timeWeek": 279,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2022-12-03": 89
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 321,
-    "timeWeek": 300,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "time": 270,
+    "timeDay": 206,
+    "timeWeek": 288,
+    "timeMonth": 270,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 203,
-    "timeWeek": 283,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 258,
+    "timeDay": 204,
+    "timeWeek": 272,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   }
 ]
