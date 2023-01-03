@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/de2x.fastnetworkcdn.xyz.ico",
     "slug": "alman-2",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.41%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 424,
     "timeDay": 330,
     "timeWeek": 821,
@@ -45,19 +45,19 @@
     "url": "http://de3x.fastnetworkcdn.xyz:8585",
     "icon": "https://icons.duckduckgo.com/ip3/de3x.fastnetworkcdn.xyz.ico",
     "slug": "alman-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 267,
-    "timeDay": 348,
+    "timeDay": 318,
     "timeWeek": 289,
     "timeMonth": 267,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-01-03": 0
+      "2023-01-03": 58
     }
   }
 ]
